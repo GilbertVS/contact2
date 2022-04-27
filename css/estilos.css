@@ -1,0 +1,20 @@
+* {font-family: arial; box-sizing: border-box;}
+body {background: lightgrey; font-size: 18px;}
+h1 {color: navy; font-size: 38px;}
+main {padding: 2%;}
+.centrar  {text-align: center;}
+/*.container {width: 60%; margin: 50px auto; max-width: 700px; padding: 20px; border: 2px solid grey;}*/
+label {width: 160px; display: inline-block; text-align: right;}
+table {border: 2px solid white; width:95%;}
+td, th {border: 2px solid white; width: 25%; text-align:center;}
+/*form {margin: 0px; display: inline-block;}*/
+.nombre, .direccion {cursor: pointer; border: 2px solid black;}
+input{height:45px; width:90%;}
+input:hover{background: #545454; color:yellow;}
+.nif{vertical-align: middle; color: black; font-size:20px;}
+#alta:hover {background-color: whitesmoke; color:green;}
+#baja:hover{background-color: whitesmoke; color:red;}
+#baja2:hover{background-color: whitesmoke; color:red;}
+.baja:hover {background-color: whitesmoke; color:orange;}
+.modi:hover {background-color: whitesmoke; color: blue;}
+
